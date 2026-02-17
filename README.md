@@ -12,6 +12,10 @@ This project provides algorithms to compute the shortest path between two points
 - **JSON-based graph definition**: Easy-to-understand and flexible graph representation
 - **Efficient algorithms**: Optimized pathfinding implementation
 
+## Requirements
+- Python3
+- Matplotlib
+
 ### Installation
 1. Clone the repository:
 
